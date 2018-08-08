@@ -7,8 +7,6 @@
 
 # dependencies
 /node_modules
-/e2e
-.editorconfig
 
 # IDEs and editors
 /.idea
